@@ -30,8 +30,8 @@ Each lab includes:
 
 | Lab | Platform | Status | Date |
 |-----|----------|--------|------|
-| IAM Users, Groups, and Policies | AWS | ✅ Completed | Apr 2025 |
-| IAM Roles & EC2 Permissions | AWS | 🔄 In Progress | May 2025 |
+| IAM Users, Groups, and Policies | AWS | ✅ Completed | May 2025 |
+| IAM Roles & EC2 Permissions | AWS | 🔄 In Progress | June 2025 |
 | Azure AD Basics | Azure | ⏳ Planned | TBD |
 
 ---
