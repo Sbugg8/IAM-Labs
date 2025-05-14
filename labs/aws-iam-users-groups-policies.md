@@ -1,6 +1,6 @@
 # IAM Lab: Users, Groups, and Policies (AWS)
 
-## 🔍 Goal
+## 🔍 Goals
 
 Understand the core components of AWS Identity and Access Management by:
 - Creating IAM users and groups
