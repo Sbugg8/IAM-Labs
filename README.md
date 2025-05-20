@@ -5,13 +5,15 @@ Hands-on AWS IAM labs and learning tracker (5-month cloud security journey)
 
 ## 📚 Lab Progress
 
-| # | Lab Title | Platform | Status | Link |
-|---|-----------|----------|--------|------|
-| 1 | IAM Users, Groups, and Policies | AWS | ✅ Completed | [View Lab](labs/aws-iam-users-groups-policies.md) |
-| 2 | IAM Roles & EC2 Permissions | AWS | ✅ Completed | [View Lab](labs/aws-iam-roles-ec2.md) |
-| 3 | Azure AD Basics | Azure | ⏳ Planned | _Coming soon_ |
-| 4 | IAM Automation with Terraform | AWS | ⏳ Planned | _Coming soon_ |
-| 5 | MFA, SCPs, and IAM Best Practices | AWS | ⏳ Planned | _Coming soon_ |
+| # | Lab Title                                           | Platform | Status      | Link                                                |
+|---|-----------------------------------------------------|----------|-------------|-----------------------------------------------------|
+| 1 | IAM Users, Groups, and Policies                     | AWS      | ✅ Completed | [View Lab](labs/aws-iam-users-groups-policies.md)  |
+| 2 | IAM Roles & EC2 Permissions                         | AWS      | ✅ Completed | [View Lab](labs/aws-iam-roles-ec2.md)              |
+| 3 | IAM Policy Simulator and Permissions Boundaries     | AWS      | ⏳ In Progress | [View Lab](labs/aws-iam-policy-simulator-boundaries.md) |
+| 4 | Azure AD Basics                                     | Azure    | 🕒 Planned   | Coming soon                                         |
+| 5 | IAM Automation with Terraform                       | AWS      | 🕒 Planned   | Coming soon                                         |
+| 6 | MFA, SCPs, and IAM Best Practices                   | AWS      | 🕒 Planned   | Coming soon                                         |
+
 
 ---
 
