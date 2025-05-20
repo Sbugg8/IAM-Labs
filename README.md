@@ -39,3 +39,21 @@ This repo documents my 5-month journey to master Identity and Access Management 
 
 ## 🗂️ File Structure
 
+# IAM-Labs
+
+Hands-on AWS IAM labs and learning tracker (5-month cloud security journey)
+
+## 📁 Labs
+
+- [IAM: Users, Groups, and Policies](labs/aws-iam-users-groups-policies.md)
+- [IAM: Roles and EC2 Access](labs/aws-iam-roles-ec2.md)
+
+## 🖼️ Images
+
+All screenshots used in labs are stored in the [images](images/) folder.
+
+## 📚 References
+
+- [Useful IAM links](references/useful-links.md) *(coming soon)*
+
+
