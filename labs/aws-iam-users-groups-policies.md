@@ -32,7 +32,7 @@
 
 
 
-![logging in to labuser1 ](https://github.com/user-attachments/assets/c008d2d6-3567-4445-b2ce-a5405fa58ee1)
+![Login Screenshot](../images/logging-in-to-labuser1.png)
 
 
 
