@@ -30,7 +30,7 @@
 
 ## 🖼️ Screenshot
 
-> _Add your screenshot image below (drag and drop or upload via GitHub UI)._
+
 
 ![logging in to labuser1 ](https://github.com/user-attachments/assets/c008d2d6-3567-4445-b2ce-a5405fa58ee1)
 
