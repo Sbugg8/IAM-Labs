@@ -32,7 +32,7 @@
 
 > _Add your screenshot image below (drag and drop or upload via GitHub UI)._
 
-![labuser1-logged-in](../images/![logging in to labuser1 ](https://github.com/user-attachments/assets/6dfc8962-e3e6-4d83-8aaa-c8a769ecbbdf)
+![logging in to labuser1 ](https://github.com/user-attachments/assets/c008d2d6-3567-4445-b2ce-a5405fa58ee1)
 
 
 
