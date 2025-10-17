@@ -6,11 +6,14 @@ This repository tracks my hands-on journey through AWS Identity and Access Manag
 > This repo documents hands-on learning and contains drafts and experiments. Some lab pages are in progress — I’m actively updating artifacts. Completed, verified work will be placed in `completed/` when ready.
 
 
-| Lab | Title | Description |
-|-----|-------|-------------|
-|  1 | [IAM Users, Groups, and Policies](labs/aws-iam-users-groups-policies.md) | Created `labuser1`, added to `LabAdmins` group, and attached `AdministratorAccess` |
-|  2 | [IAM Roles and EC2 Permissions](labs/aws-iam-roles-ec2.md) | Created roles, assigned EC2 permissions, and tested with instance profile |
-|  3 | [Policy Simulator & Permissions Boundaries](labs/aws-iam-policy-simulator-boundaries.md) | Tested policies using IAM Policy Simulator and added permission boundaries |
+## 🔐 Labs (status)
+
+| Lab | Title | Status | Notes |
+|-----|-------|--------|-------|
+| 1 | [IAM Users, Groups, and Policies](labs/aws-iam-users-groups-policies.md) | In progress | Created `labuser1` and `LabAdmins` group (draft notes). |
+| 2 | [IAM Roles and EC2 Permissions](labs/aws-iam-roles-ec2.md) | Draft | Outline exists; steps and verification pending. |
+| 3 | [Policy Simulator & Permission Boundaries](labs/aws-iam-policy-simulator-boundaries.md) | Draft | Tests planned; snapshots TBD. |
+
 
 ---
 
