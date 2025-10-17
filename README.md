@@ -21,6 +21,9 @@ All screenshots are stored in the [`/images`](images/) folder.
 ## 📌 Goal
 
 To build a strong foundation in IAM through hands-on AWS labs and grow toward a role in cloud security. Each lab is designed, tested, and documented by me.
+## 🤖 AI Integration (OCI)
+
+Incorporating Oracle OCI AI Foundations into hands-on labs to demonstrate how AI can enrich security telemetry and speed triage. Artifacts include module notes, a mock pipeline sketch (ingest → detect → enrich), and sample outputs showing how AI-prioritized alerts can reduce analyst MTTR.
 
 ---
 
