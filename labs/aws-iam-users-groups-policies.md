@@ -1,45 +1,23 @@
-# Lab 1: IAM Users, Groups, and Policies
+# IAM Users, Groups, and Policies
 
-## 📌 Objectives
-- Create IAM users and groups
-- Attach AWS managed policies
-- Test login and permissions for the IAM user
+**Status:** In progress
 
----
+**Objective:** Create a lab user and group, attach a policy, and verify access in a sandbox.
 
-## 🛠️ Steps Performed
+## Steps performed
+1. Snapshot sandbox / VM before changes.
+2. Created user `labuser1`.
+3. Created group `LabAdmins` and added `labuser1`.
+4. Attached `AdministratorAccess` for initial testing (will narrow to least-privilege later).
 
-| Step | Action |
-|------|--------|
-| 1 | Created a user group named `LabAdmins` |
-| 2 | Created IAM user `labuser1` |
-| 3 | Attached `AdministratorAccess` policy to `LabAdmins` group |
-| 4 | Added `labuser1` to the group |
-| 5 | Logged into AWS Console as `labuser1` using the IAM login URL |
-| 6 | Verified permissions by accessing services like EC2 and IAM |
+## Evidence
+- Screenshot: `images/IAM-user-group-policy-YYYYMMDD.png` (redact any keys or sensitive info).
 
----
+## Notes
+- Verified user appears in console; interactive login verification is pending due to sandbox login constraints.
+- Next: replace AdministratorAccess with a least-privilege policy and re-test.
 
-## ✅ Results
-
-- IAM user `labuser1` has full administrative access.
-- Login and service navigation successful.
-- Permissions verified.
-
----
-
-## 🖼️ Screenshot
-
-
-
-![Login Screenshot](../images/logging-in-to-labuser1.png)
-
-
-
-
-
----
-
-## 🗂️ Status
-
-✅ **Lab Completed Successfully**
+## Next steps
+1. Complete login verification as `labuser1`.  
+2. Create and test a least-privilege policy for the required actions.  
+3. Re-scan and add final screenshots; move file to `completed/` when fully verified.
