@@ -1,6 +1,6 @@
 # 🧪 IAM Labs – Hands-On AWS Identity & Access Management
 
-This repository tracks my hands-on journey through AWS Identity and Access Management (IAM) as part of my 5-month cloud security learning plan.
+This repository tracks my hands-on journey through AWS Identity and Access Management (IAM) as part of my cloud security learning plan.
 
 ## 🔐 Labs Completed
 
